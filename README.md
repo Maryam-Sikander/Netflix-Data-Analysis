@@ -7,7 +7,7 @@ information about TV shows and movies available on Netflix as of 2019.
 - The most popular director on Netflix is Rajiv Chilaka.
 - Movies receive maximum ratings as compared to TV shows, with 6124 ratings for movies and 2663 ratings for TV shows.
 - Based on the analysis of ratings, Netflix is not very popular among children.
-- The top category of content produced on Netflix is dramas, followed by international movies.
+- The top category of content produced on Netflix is dramas and international movies.
 - The production of movies and TV shows increased steadily until 2018, but there was a sudden drop in production after that.
 ## Methodology
 The analysis was conducted using Python programming language and various libraries such as Pandas and Matplotlib. The data was first cleaned and preprocessed to
